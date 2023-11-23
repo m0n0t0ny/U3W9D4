@@ -10,6 +10,7 @@ class CapoAbbigliamento {
   prezzoivainclusa: number;
   disponibile: string;
   saldo: number;
+  url: string;
 
   constructor(
     id: number,
@@ -22,7 +23,8 @@ class CapoAbbigliamento {
     prezzoivaesclusa: number,
     prezzoivainclusa: number,
     disponibile: string,
-    saldo: number
+    saldo: number,
+    url: string
   ) {
     this.id = id;
     this.codprod = codprod;
@@ -35,6 +37,7 @@ class CapoAbbigliamento {
     this.prezzoivainclusa = prezzoivainclusa;
     this.disponibile = disponibile;
     this.saldo = saldo;
+    this.url = url;
   }
 
   getPrezzoIvaInclusa(): number {
@@ -48,7 +51,7 @@ class CapoAbbigliamento {
   }
 }
 
-fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
+fetch("https://mocki.io/v1/1a4289c8-f0bc-4b79-a4bc-4b2ee139c178")
   .then((response) => {
     if (!response.ok) {
       throw new Error("Errore nella richiesta HTTP");
@@ -71,7 +74,8 @@ fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
           item.prezzoivaesclusa,
           item.prezzoivainclusa,
           item.disponibile,
-          item.saldo
+          item.saldo,
+          item.url
         );
       }
     );
@@ -80,19 +84,20 @@ fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
       const get = document.getElementById("get") as HTMLElement;
 
       const col = document.createElement("div");
-      col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-3";
+      col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-5";
       get.appendChild(col);
 
       const card = document.createElement("div");
-      card.className = "card";
+      card.className = "card border-0";
       col.appendChild(card);
 
       const cardBody = document.createElement("div");
       cardBody.className = "card-body";
       card.appendChild(cardBody);
 
-      const cardImg = document.createElement("div");
-      cardImg.className = "card-img-top";
+      const cardImg = document.createElement("img");
+      cardImg.className = "card-img-top mb-3 rounded-3";
+      cardImg.src = capo.url;
       cardBody.appendChild(cardImg);
 
       const h5 = document.createElement("h5");
@@ -102,17 +107,17 @@ fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
       cardBody.appendChild(h5);
 
       const saldo = document.createElement("p");
-      saldo.className = "card-text mb-3";
+      saldo.className = "card-text mb-1";
       saldo.innerHTML = `Saldo: <span class="text-danger fw-bold">${capo.saldo}%</span>`;
       cardBody.appendChild(saldo);
 
       const prezzoIniziale = document.createElement("p");
-      prezzoIniziale.className = "card-text";
-      prezzoIniziale.innerHTML = `Prezzo iniziale: <span class="fw-bold">${capo.getPrezzoIvaInclusa()}€</span>`;
+      prezzoIniziale.className = "card-text mb-1";
+      prezzoIniziale.innerHTML = `Prezzo iniziale: <del class="fw-bold">${capo.getPrezzoIvaInclusa()}€</del>`;
       cardBody.appendChild(prezzoIniziale);
 
       const prezzoScontato = document.createElement("p");
-      prezzoScontato.className = "card-text";
+      prezzoScontato.className = "card-text mb-1";
       prezzoScontato.innerHTML = `Prezzo scontato: <span class="text-success fw-bold">${capo.getSaldoCapo()}€</span>`;
       cardBody.appendChild(prezzoScontato);
     });

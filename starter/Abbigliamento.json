@@ -10,7 +10,8 @@
     "prezzoivaesclusa": 18.5,
     "prezzoivainclusa": 22.57,
     "disponibile": "negozio",
-    "saldo": 45
+    "saldo": 45,
+    "url": "https://img01.ztat.net/article/spp-media-p1/17c9ed4e64a549e8b0683a6b45533411/4ba4433de01549c89cb990aa28c91d3a.jpg?imwidth=300"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     "prezzoivaesclusa": 5.5,
     "prezzoivainclusa": 6.71,
     "disponibile": "magazzino",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e6d5f948ef2b3cbd88a94c45c38ef3a1/43fbb4140fa94ab891e83bd7628854ec.jpg?imwidth=300"
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     "prezzoivaesclusa": 17.5,
     "prezzoivainclusa": 21.35,
     "disponibile": "negozio",
-    "saldo": 50
+    "saldo": 50,
+    "url": "https://img01.ztat.net/article/spp-media-p1/0f9163d27c2d41ceafc1112e6e724f0c/b8113a0b828944dcbb7a7ad19eb91400.jpg?imwidth=300"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     "prezzoivaesclusa": 20,
     "prezzoivainclusa": 24.4,
     "disponibile": "negozio",
-    "saldo": 50
+    "saldo": 50,
+    "url": "https://img01.ztat.net/article/spp-media-p1/27b107b0a4964573adfd5db2601f78b3/c94089e3e354418b808caf543998bc8c.jpg?imwidth=300"
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     "prezzoivaesclusa": 11,
     "prezzoivainclusa": 13.42,
     "disponibile": "magazzino",
-    "saldo": 60
+    "saldo": 60,
+    "url": "https://img01.ztat.net/article/spp-media-p1/947be849cc1c4c509bfe66851147a56b/8fc79a1a9b714677a880eac8df03a009.jpg?imwidth=300"
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     "prezzoivaesclusa": 22.0,
     "prezzoivainclusa": 26.84,
     "disponibile": "negozio",
-    "saldo": 40
+    "saldo": 40,
+    "url": "https://img01.ztat.net/article/spp-media-p1/352dd638796442ebbc52ed8826a9d0d9/b4096908bad244e9b2e18613556a64ad.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     "prezzoivaesclusa": 8.0,
     "prezzoivainclusa": 9.76,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/f4ba33563bdd4f3b82a21b3bfa8dfd0e/eaeb2b26175746bf8e4973556840a7c9.jpg?imwidth=300"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     "prezzoivaesclusa": 45.0,
     "prezzoivainclusa": 54.9,
     "disponibile": "negozio",
-    "saldo": 35
+    "saldo": 35,
+    "url": "https://img01.ztat.net/article/spp-media-p1/0de30833a56232b3a82310500a6a7619/7ac14a664acc41b3abc6636f39bb1a45.jpg?imwidth=300"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     "prezzoivaesclusa": 15.5,
     "prezzoivainclusa": 18.91,
     "disponibile": "negozio",
-    "saldo": 15
+    "saldo": 15,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e45d87a6d3144b92ad2f366be408d9d4/6e2ebbca408a4b59b87aecbbb84fd4fe.jpg?imwidth=300"
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     "prezzoivaesclusa": 9.5,
     "prezzoivainclusa": 11.59,
     "disponibile": "magazzino",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/59d961528e4040e3b4a79ccf1d83dd91/7f64431f89e84a1f9af791eda056d41e.jpg?imwidth=300"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     "prezzoivaesclusa": 35.0,
     "prezzoivainclusa": 42.7,
     "disponibile": "negozio",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/552b285e899646c99302dfda2742e427/66c15d587c1340c2ad4cc05a296ed433.jpg?imwidth=300"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     "prezzoivaesclusa": 12.0,
     "prezzoivainclusa": 14.64,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/4d58e0b8f65944f1bde027790d645f07/290dd7e791c042d5a5b6e5846f2de719.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     "prezzoivaesclusa": 25.5,
     "prezzoivainclusa": 31.11,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e20fb464a1ec32ea8420fef6a821b66d/d1ea01a368094173a7aa02d60a8ad100.jpg?imwidth=300"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     "prezzoivaesclusa": 8.0,
     "prezzoivainclusa": 9.76,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e454de1f45bb3e319248501ad30c443a/f6260c281b604ce3a64a1055a647e260.jpg?imwidth=300"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/9a71ff2062c94524b5ee947dc94bcdec/f8094cca01664d6e97f2b3006f685972.jpg?imwidth=300"
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     "prezzoivaesclusa": 42.0,
     "prezzoivainclusa": 51.24,
     "disponibile": "negozio",
-    "saldo": 35
+    "saldo": 35,
+    "url": "https://img01.ztat.net/article/spp-media-p1/8e50183e0c144b90a5528f4f6554bf0e/60177696952b451496bbc1ce26a2a386.jpg?imwidth=300"
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     "prezzoivaesclusa": 9.0,
     "prezzoivainclusa": 10.98,
     "disponibile": "magazzino",
-    "saldo": 15
+    "saldo": 15,
+    "url": "https://img01.ztat.net/article/spp-media-p1/c3ffb3be748b40d0be84195a3ea1540a/4ffac1e6c6594b5aabd05e4efdfc0e33.jpg?imwidth=300"
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     "prezzoivaesclusa": 26.5,
     "prezzoivainclusa": 32.47,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/03e21da4bede40f6a71582f119c237d7/b9eaa81fd2684facbfb8192cdeb9bfb8.jpg?imwidth=300"
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     "prezzoivaesclusa": 6.0,
     "prezzoivainclusa": 7.32,
     "disponibile": "negozio",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/5b94939b1aef4f4d9d7fb0ae19fdccf2/64ff6810269c459a848b5bb5d03e4eb8.jpg?imwidth=300"
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e43b2b05b16a417b8be3408ec4ca18d0/a9b22563ba244cecae41ec5dfa884bc8.jpg?imwidth=300"
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
     "prezzoivaesclusa": 18.0,
     "prezzoivainclusa": 21.96,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/4af932d40ae245feb124bcf11aa5030d/5f0c82a8d4c444e49fb121bd719e49fc.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     "prezzoivaesclusa": 32.5,
     "prezzoivainclusa": 39.65,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/c3f6ca69cfa14895b94e15b90d8b06fb/d3d52afc1cf141ed810821f579f1d808.jpg?imwidth=300"
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/4747c21f42a135228381d53eab10febd/bce24b3f08204f9f9493ae140ea55e85.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     "prezzoivaesclusa": 15.0,
     "prezzoivainclusa": 18.3,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/a037459ec4d9440497889b663dcbbad2/f941bb70cdf94c9aa11afe0137da46c7.jpg?imwidth=300"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     "prezzoivaesclusa": 29.0,
     "prezzoivainclusa": 35.38,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/1e06049f188a4e6f8de133039d7a70bb/7a169860481e48d0a469af778b1d4529.jpg?imwidth=300"
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/ffe0706e87374f238190a9c49b5a37f6/548e11a54464473c83db1f8d12970a65.jpg?imwidth=300"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     "prezzoivaesclusa": 18.0,
     "prezzoivainclusa": 21.96,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/7f6a8a6554823102beb329f874fb17e7/592066d54eda4a08bacebd14cdc58014.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     "prezzoivaesclusa": 32.5,
     "prezzoivainclusa": 39.65,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/845c9b8526c547a3aa7387c14aaaf417/700c0c2fbd2b4ea58503dfa45f3c7d66.jpg?imwidth=300"
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/d4a6dbde72eb3ffcb5a8def834526913/e231545748ca4793ae95d5c3face4cc8.jpg?imwidth=300"
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     "prezzoivaesclusa": 15.0,
     "prezzoivainclusa": 18.3,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/4d73e97c5f5a44b3b1b5875ae5956e5c/07cca0b4d4b24e548d86094b412b50e9.jpg?imwidth=300"
   },
   {
     "id": 31,
@@ -400,7 +430,8 @@
     "prezzoivaesclusa": 29.0,
     "prezzoivainclusa": 35.38,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/914e5324f8404a0db5174489e9190797/531c7efc05d543dcb268d9174d046689.jpg?imwidth=300"
   },
   {
     "id": 32,
@@ -413,7 +444,8 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/515067d36747484c945a9f0182117242/94dc0deb65b84d57ae85f86de520462c.jpg?imwidth=300"
   },
   {
     "id": 33,
@@ -426,7 +458,8 @@
     "prezzoivaesclusa": 18.0,
     "prezzoivainclusa": 21.96,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/4af932d40ae245feb124bcf11aa5030d/5f0c82a8d4c444e49fb121bd719e49fc.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 34,
@@ -439,7 +472,8 @@
     "prezzoivaesclusa": 32.5,
     "prezzoivainclusa": 39.65,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/d1cde129fb7240bf8dc0fdb24e2ecc7b/b70c106a33aa4721bcaa122213efbbbd.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 35,
@@ -452,7 +486,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/c9270059d80c4003852bd3ac7f98f74d/f11158f34eb1489bb6b68c5764e61cde.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 36,
@@ -465,7 +500,8 @@
     "prezzoivaesclusa": 15.0,
     "prezzoivainclusa": 18.3,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/f9600eadff1b4294bb1527a5632f4160/757190df4b6848aeb1c2e02084d458fb.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 37,
@@ -478,7 +514,8 @@
     "prezzoivaesclusa": 29.0,
     "prezzoivainclusa": 35.38,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/b8cd0358746f4fc0899983f22ed2adcf/4400f5569b4c4049b79b62f3c5e9f4e0.jpg?imwidth=300"
   },
   {
     "id": 38,
@@ -491,7 +528,8 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/d2758ec9cc77448d992b47564991c633/85af7421d07f44d88c82ff58267aa3eb.jpg?imwidth=300"
   },
   {
     "id": 39,
@@ -504,7 +542,8 @@
     "prezzoivaesclusa": 18.0,
     "prezzoivainclusa": 21.96,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/7f6a8a6554823102beb329f874fb17e7/592066d54eda4a08bacebd14cdc58014.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 40,
@@ -517,7 +556,8 @@
     "prezzoivaesclusa": 32.5,
     "prezzoivainclusa": 39.65,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/177079423fb24cc486f56ce1c8abd437/a60cf0d930a44cd18309ae8d89648c26.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 41,
@@ -530,7 +570,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/e6f2bc97b25f4a3cbd2ca703b671b0e7/5242734746314dd9b9d1ba70ba529f85.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 42,
@@ -543,7 +584,8 @@
     "prezzoivaesclusa": 15.0,
     "prezzoivainclusa": 18.3,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/49a318dd54c84905ad7b634e738e8696/c9c539747a7e4e3085691b01731bdb8f.jpg?imwidth=300"
   },
   {
     "id": 43,
@@ -556,7 +598,8 @@
     "prezzoivaesclusa": 29.0,
     "prezzoivainclusa": 35.38,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/6364ab7efc3f4adfba836be34ca0b34a/4cbba62646004c2491069e406e470426.jpg?imwidth=300"
   },
   {
     "id": 44,
@@ -569,7 +612,8 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/cca0f36dc29a447a9a30a3ee9db9c1da/cd04d937468d407fad15992edd66b708.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 45,
@@ -582,7 +626,8 @@
     "prezzoivaesclusa": 18.0,
     "prezzoivainclusa": 21.96,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/2ba750d03cf644f8bfeb7e6a2fc0c9ba/9180ed30d64143e1a9645a31488b9f4c.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 46,
@@ -595,7 +640,8 @@
     "prezzoivaesclusa": 32.5,
     "prezzoivainclusa": 39.65,
     "disponibile": "magazzino",
-    "saldo": 5
+    "saldo": 5,
+    "url": "https://img01.ztat.net/article/spp-media-p1/0eb6252d093249a593792961a8e0e0c0/4dead9b26ff74fabadbcaa2128c620b1.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 47,
@@ -608,7 +654,8 @@
     "prezzoivaesclusa": 10.0,
     "prezzoivainclusa": 12.2,
     "disponibile": "negozio",
-    "saldo": 20
+    "saldo": 20,
+    "url": "https://img01.ztat.net/article/spp-media-p1/17f76e679c143101bf9c210fa730134e/b4285cd8da73467193a1415ec6e4a644.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 48,
@@ -621,7 +668,8 @@
     "prezzoivaesclusa": 15.0,
     "prezzoivainclusa": 18.3,
     "disponibile": "magazzino",
-    "saldo": 25
+    "saldo": 25,
+    "url": "https://img01.ztat.net/article/spp-media-p1/6299f086555444fba630b00006606f81/f265db0ea75e486a8f4ba3d6a008066c.jpg?imwidth=300"
   },
   {
     "id": 49,
@@ -634,7 +682,8 @@
     "prezzoivaesclusa": 29.0,
     "prezzoivainclusa": 35.38,
     "disponibile": "negozio",
-    "saldo": 30
+    "saldo": 30,
+    "url": "https://img01.ztat.net/article/spp-media-p1/a9464e139bb34f7298b31204581f178d/49aff62c56db42778978fa38939c34d5.jpg?imwidth=300&filter=packshot"
   },
   {
     "id": 50,
@@ -647,6 +696,7 @@
     "prezzoivaesclusa": 13.5,
     "prezzoivainclusa": 16.47,
     "disponibile": "magazzino",
-    "saldo": 10
+    "saldo": 10,
+    "url": "https://img01.ztat.net/article/spp-media-p1/c7b896a3535b3e9499dfb7179988b0eb/78f33bf9a966484b88f2eaa996d1f977.jpg?imwidth=300"
   }
 ]

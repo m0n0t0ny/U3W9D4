@@ -36,7 +36,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 };
 var _this = this;
 var CapoAbbigliamento = /** @class */ (function () {
-    function CapoAbbigliamento(id, codprod, collezione, capo, modello, quantita, colore, prezzoivaesclusa, prezzoivainclusa, disponibile, saldo) {
+    function CapoAbbigliamento(id, codprod, collezione, capo, modello, quantita, colore, prezzoivaesclusa, prezzoivainclusa, disponibile, saldo, url) {
         this.id = id;
         this.codprod = codprod;
         this.collezione = collezione;
@@ -48,6 +48,7 @@ var CapoAbbigliamento = /** @class */ (function () {
         this.prezzoivainclusa = prezzoivainclusa;
         this.disponibile = disponibile;
         this.saldo = saldo;
+        this.url = url;
     }
     CapoAbbigliamento.prototype.getPrezzoIvaInclusa = function () {
         return this.prezzoivainclusa;
@@ -58,7 +59,7 @@ var CapoAbbigliamento = /** @class */ (function () {
     };
     return CapoAbbigliamento;
 }());
-fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
+fetch("https://mocki.io/v1/1a4289c8-f0bc-4b79-a4bc-4b2ee139c178")
     .then(function (response) {
     if (!response.ok) {
         throw new Error("Errore nella richiesta HTTP");
@@ -68,23 +69,24 @@ fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
     .then(function (data) {
     console.log("Dati dall'API:", data);
     var capiAbbigliamento = data.map(function (item) {
-        return new CapoAbbigliamento(item.id, item.codprod, item.collezione, item.capo, item.modello, item.quantita, item.colore, item.prezzoivaesclusa, item.prezzoivainclusa, item.disponibile, item.saldo);
+        return new CapoAbbigliamento(item.id, item.codprod, item.collezione, item.capo, item.modello, item.quantita, item.colore, item.prezzoivaesclusa, item.prezzoivainclusa, item.disponibile, item.saldo, item.url);
     });
     capiAbbigliamento.forEach(function (capo) { return __awaiter(_this, void 0, void 0, function () {
         var get, col, card, cardBody, cardImg, h5, saldo, prezzoIniziale, prezzoScontato;
         return __generator(this, function (_a) {
             get = document.getElementById("get");
             col = document.createElement("div");
-            col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-3";
+            col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-5";
             get.appendChild(col);
             card = document.createElement("div");
-            card.className = "card";
+            card.className = "card border-0";
             col.appendChild(card);
             cardBody = document.createElement("div");
             cardBody.className = "card-body";
             card.appendChild(cardBody);
-            cardImg = document.createElement("div");
-            cardImg.className = "card-img-top";
+            cardImg = document.createElement("img");
+            cardImg.className = "card-img-top mb-3 rounded-3";
+            cardImg.src = capo.url;
             cardBody.appendChild(cardImg);
             h5 = document.createElement("h5");
             h5.className = "card-title mb-3";
@@ -92,15 +94,15 @@ fetch("https://mocki.io/v1/3381bee8-fea8-482e-a1e4-08ed54c2cae6")
             h5.innerText = capo.capo;
             cardBody.appendChild(h5);
             saldo = document.createElement("p");
-            saldo.className = "card-text mb-3";
+            saldo.className = "card-text mb-1";
             saldo.innerHTML = "Saldo: <span class=\"text-danger fw-bold\">".concat(capo.saldo, "%</span>");
             cardBody.appendChild(saldo);
             prezzoIniziale = document.createElement("p");
-            prezzoIniziale.className = "card-text";
-            prezzoIniziale.innerHTML = "Prezzo iniziale: <span class=\"fw-bold\">".concat(capo.getPrezzoIvaInclusa(), "\u20AC</span>");
+            prezzoIniziale.className = "card-text mb-1";
+            prezzoIniziale.innerHTML = "Prezzo iniziale: <del class=\"fw-bold\">".concat(capo.getPrezzoIvaInclusa(), "\u20AC</del>");
             cardBody.appendChild(prezzoIniziale);
             prezzoScontato = document.createElement("p");
-            prezzoScontato.className = "card-text";
+            prezzoScontato.className = "card-text mb-1";
             prezzoScontato.innerHTML = "Prezzo scontato: <span class=\"text-success fw-bold\">".concat(capo.getSaldoCapo(), "\u20AC</span>");
             cardBody.appendChild(prezzoScontato);
             return [2 /*return*/];
