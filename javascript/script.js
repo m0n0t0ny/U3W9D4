@@ -76,13 +76,13 @@ fetch("https://mocki.io/v1/1a4289c8-f0bc-4b79-a4bc-4b2ee139c178")
         return __generator(this, function (_a) {
             get = document.getElementById("get");
             col = document.createElement("div");
-            col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-5";
+            col.className = "col-6 col-sm-6 col-md-4 col-lg-3 g-5";
             get.appendChild(col);
             card = document.createElement("div");
             card.className = "card border-0";
             col.appendChild(card);
             cardBody = document.createElement("div");
-            cardBody.className = "card-body";
+            cardBody.className = "card-body shadow-sm rounded-3";
             card.appendChild(cardBody);
             cardImg = document.createElement("img");
             cardImg.className = "card-img-top mb-3 rounded-3";

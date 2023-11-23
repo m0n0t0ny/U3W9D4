@@ -84,7 +84,7 @@ fetch("https://mocki.io/v1/1a4289c8-f0bc-4b79-a4bc-4b2ee139c178")
       const get = document.getElementById("get") as HTMLElement;
 
       const col = document.createElement("div");
-      col.className = "col-12 col-sm-6 col-md-4 col-lg-3 g-5";
+      col.className = "col-6 col-sm-6 col-md-4 col-lg-3 g-5";
       get.appendChild(col);
 
       const card = document.createElement("div");
@@ -92,7 +92,7 @@ fetch("https://mocki.io/v1/1a4289c8-f0bc-4b79-a4bc-4b2ee139c178")
       col.appendChild(card);
 
       const cardBody = document.createElement("div");
-      cardBody.className = "card-body";
+      cardBody.className = "card-body shadow-sm rounded-3";
       card.appendChild(cardBody);
 
       const cardImg = document.createElement("img");
